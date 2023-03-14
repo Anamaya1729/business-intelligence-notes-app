@@ -80,35 +80,29 @@
       "id": 4,
       "question": "Explain Business Intelligence Architecture.",
       "answer" : [
-        "Business Intelligence (BI) refers to the process of collecting, analyzing, and presenting business data in a way that can inform decision-making and improve business performance. BI typically involves using software tools and technologies to gather and analyze data from various sources, such as databases, spreadsheets, and other digital systems. The goal of BI is to turn data into actionable insights, which can help businesses to make informed decisions and optimize their operations. Some common BI activities include data mining, reporting, and visualization, as well as predictive analytics and other advanced techniques. BI can be used in a variety of contexts, such as sales and marketing, finance and accounting, and operations and supply chain management. It can also be used to support strategic planning and forecasting, as well as to monitor and measure business performance over time. Overall, BI is a key component of modern business operations, enabling organizations to leverage their data assets to drive better decision-making and improve their bottom line."]
-    },
+        "Business Intelligence Architecture refers to the technical infrastructure and components that support the collection, storage, analysis, and dissemination of data for business intelligence purposes.",
+        "A typical Business Intelligence Architecture includes several layers, such as data sources, data integration, data warehousing, data modeling, reporting, and analytics. Data sources can include internal systems, external sources, and cloud-based services. Data integration involves the process of extracting data from various sources, transforming it into a standard format, and loading it into a data warehouse.",
+        "A data warehouse is a central repository that stores structured data for analysis and reporting. Data modeling involves designing the structure of the data warehouse and creating relationships between data elements. Reporting involves creating dashboards, visualizations, and reports that provide insights and help with decision-making. Analytics involves using advanced analytical techniques such as data mining, predictive modeling, and machine learning to gain deeper insights into the data.",
+        "Business Intelligence Architecture also includes the tools and technologies used to support each layer, such as ETL (Extract, Transform, Load) tools, data integration platforms, data warehousing solutions, reporting tools, and analytics software.",
+        "Overall, a well-designed Business Intelligence Architecture is critical for organizations that want to leverage their data assets to gain competitive advantages, make informed decisions, and improve performance."
+      ]},
     {
       "id": 5,
       "question": "What is Business Intelligence?",
-      "answer" : ["Data preparation is the process of collecting, cleaning, and transforming raw data into a format suitable for analysis and reporting in Business Intelligence. The goal of data preparation is to ensure that the data is accurate, complete, and consistent, and that it can be easily analyzed and visualized to derive insights and make informed decisions.",
-                  "Data preparation involves several steps, including:",
-                  "1. Data collection: gathering data from various sources, such as databases, spreadsheets, and external sources.", 
-                  "2. Data cleansing: removing or correcting inaccurate, incomplete, or irrelevant data.",
-                  "3. Data integration: combining data from multiple sources into a single dataset.",
-                  "4. Data transformation: transforming data into a format that is suitable for analysis and reporting.",
-                  "5. Data enrichment: adding additional information to the data to make it more useful.",
-                  "6. Data visualization: visualizing the data to identify patterns and relationships.",
-                  "Effective data preparation is critical for successful Business Intelligence, as it ensures that the data is reliable and trustworthy, and that it can be easily analyzed and visualized to derive insights and make informed decisions. A well-designed data preparation process can also save time and resources by automating repetitive tasks and reducing manual errors."
-                  ]
+      "answer" : ["Business Intelligence (BI) refers to the use of technology and processes to collect, analyze, and transform raw data into actionable insights that can help businesses make informed decisions. The process of BI involves collecting data from various sources, cleaning and preparing it for analysis, and using specialized software tools to identify patterns and trends, and to create visualizations and reports that can help stakeholders understand the data and make better decisions. The goal of BI is to provide decision-makers with accurate, timely, and relevant information that can help them identify opportunities, minimize risks, and improve overall business performance."]
     },
     {
       "id": 6,
       "question": "What are the phases of Business Intelligence?",
-      "answer" : ["Data preparation is the process of collecting, cleaning, and transforming raw data into a format suitable for analysis and reporting in Business Intelligence. The goal of data preparation is to ensure that the data is accurate, complete, and consistent, and that it can be easily analyzed and visualized to derive insights and make informed decisions.",
-                  "Data preparation involves several steps, including:",
-                  "1. Data collection: gathering data from various sources, such as databases, spreadsheets, and external sources.", 
-                  "2. Data cleansing: removing or correcting inaccurate, incomplete, or irrelevant data.",
-                  "3. Data integration: combining data from multiple sources into a single dataset.",
-                  "4. Data transformation: transforming data into a format that is suitable for analysis and reporting.",
-                  "5. Data enrichment: adding additional information to the data to make it more useful.",
-                  "6. Data visualization: visualizing the data to identify patterns and relationships.",
-                  "Effective data preparation is critical for successful Business Intelligence, as it ensures that the data is reliable and trustworthy, and that it can be easily analyzed and visualized to derive insights and make informed decisions. A well-designed data preparation process can also save time and resources by automating repetitive tasks and reducing manual errors."
-                  ]
+      "answer" : ["The phases of Business Intelligence can vary depending on the specific approach used, but here are the general phases:",
+                  "1. Data gathering: This involves identifying and collecting data from various sources, including internal systems, external sources, and third-party providers.",
+                  "2. Data cleaning: This involves cleansing the data to remove any errors, inconsistencies, or missing information that may impact the accuracy of the analysis.",
+                  "3. Data integration: This involves combining the various sources of data into a unified data warehouse or data lake.",
+                  "4. Data analysis: This involves using various techniques and tools to analyze the data and identify patterns, trends, and insights.",
+                  "5. Data visualization: This involves creating visual representations of the data that make it easier to understand and interpret.",
+                  "6. Reporting: This involves creating reports that summarize the findings of the data analysis and present them in a way that is understandable and actionable.",
+                  "7. Deployment: This involves making the BI solution available to end-users, either through a web-based portal, mobile app, or other means.",
+                  "8. Monitoring and maintenance: This involves ongoing monitoring of the BI solution to ensure that it remains accurate and relevant, and making updates or modifications as needed."]
     },
     {
       "id": 7,
