@@ -7,8 +7,8 @@ function Topics(props) {
       <table className="table">
         <thead>
           <tr>
-            <th className='text-center display-10'>Topic</th>
-            <th className='text-center display-10'>Description</th>
+            <th className='text-center title display-10'>Topic</th>
+            <th className='text-center title display-10'>Description</th>
           </tr>
         </thead>
         <tbody>
