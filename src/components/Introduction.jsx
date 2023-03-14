@@ -2,7 +2,7 @@ import React from 'react';
 
 function Introduction() {
   return (
-    <div className="hero d-flex align-items-center">
+    <div className="hero mt-5 mb-5 d-flex align-items-center">
       <div className="container">
         <h1 className="display-4">Business Intelligence</h1>
         <p className="lead">Business Intelligence (BI) refers to the process of collecting, analyzing, and presenting business data in a way that can inform decision-making and improve business performance. BI typically involves using software tools and technologies to gather and analyze data from various sources, such as databases, spreadsheets, and other digital systems.
