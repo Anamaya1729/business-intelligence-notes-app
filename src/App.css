@@ -70,3 +70,18 @@ body {
 .table tbody tr:nth-child(even) {
   background-color: #f5f5f5;
 }
+
+/* Paragraph */
+.container p.lead {
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.title {
+  color:#fff;
+  background-color: #121010;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}

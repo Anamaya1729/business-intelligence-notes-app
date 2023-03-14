@@ -3,7 +3,7 @@ import React from 'react';
 function Topics(props) {
   return (
     <div className="container mt-4">
-      <h2 className="mb-4" id="topics">Topics of Business Intelligence</h2>
+      <h2 className="mb-4 text-center title display-10" id="topics">Topics of Business Intelligence</h2>
       <table className="table">
         <thead>
           <tr>
@@ -14,7 +14,7 @@ function Topics(props) {
         <tbody>
           {props.data.topics.map((topic) => (
             <tr key={topic.id}>
-              <td href={`#${topic.link}`}>{topic.title}</td>
+            <td><a href={`#${topic.link}`}>{topic.title}</a></td>
               <td>{topic.content}</td>
             </tr>
           ))}

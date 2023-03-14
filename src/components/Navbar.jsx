@@ -10,7 +10,7 @@ function AppNavbar() {
         <Nav className="ml-auto">
           <Nav.Link href="#topics" className="text-uppercase">Topics</Nav.Link>
           <Nav.Link href="#dss" className="text-uppercase">DSS</Nav.Link>
-          <Nav.Link href="#architectures" className="text-uppercase">Architectures</Nav.Link>
+          <Nav.Link href="#architecture" className="text-uppercase">Architectures</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
