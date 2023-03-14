@@ -7,14 +7,14 @@ function Topics(props) {
       <table className="table">
         <thead>
           <tr>
-            <th>Topic</th>
-            <th>Description</th>
+            <th className='text-center display-10'>Topic</th>
+            <th className='text-center display-10'>Description</th>
           </tr>
         </thead>
         <tbody>
           {props.data.topics.map((topic) => (
             <tr key={topic.id}>
-            <td><a href={`#${topic.link}`}>{topic.title}</a></td>
+            <td className='text-center display-10'><a href={`#${topic.link}`}>{topic.title}</a></td>
               <td>{topic.content}</td>
             </tr>
           ))}

@@ -7,12 +7,14 @@ import EffectiveDecisionMaking from './components/EffectiveDecisionMaking';
 import Paragraph from './components/Paragraphs';
 import Image from './components/Image';
 import architecture from './images/architecture.webp';
+import ImportantQuestion from './components/ImportantQuestion';
 
 function App() {
   return (
     <>
     <AppNavbar />
     <Introduction />
+    <ImportantQuestion props={data.importantQuestion} />
     <Topics data={data} />
     <EffectiveDecisionMaking data={data} />
     <Paragraph props={data.data} />
