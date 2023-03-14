@@ -2,7 +2,7 @@ import React from 'react';
 
 function Topics(props) {
   return (
-    <div className="container mt-4">
+    <section className="container mt-4">
       <h2 className="mb-4 text-center title display-10" id="topics">Topics of Business Intelligence</h2>
       <table className="table">
         <thead>
@@ -20,7 +20,7 @@ function Topics(props) {
           ))}
         </tbody>
       </table>
-    </div>
+    </section>
   );
 }
 
