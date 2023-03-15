@@ -95,6 +95,12 @@
       "title": "Development of a model",
       "content": "The development of a mathematical model involves several steps, such as problem identification, data collection, model formulation, model validation, and model implementation. The process requires careful consideration of the objective function, decision variables, and constraints, as well as the available data. Model validation is critical to ensure the model accurately reflects the problem being solved, and model implementation involves applying the model to the decision-making process. The process may be iterative and may involve revisiting earlier steps as new information becomes available or as the problem definition changes.",
       "link": "model-development"
+    },
+    {
+      "id": 17,
+      "title": "Classes of models",
+      "content": "The different classes of mathematical models that can be utilized in decision support systems. These models include linear programming, non-linear programming, network models, dynamic programming, and stochastic models. Linear programming models involve optimizing linear objective functions subject to linear constraints, while non-linear programming models allow for optimization of non-linear functions. Network models are useful in solving problems represented by networks or graphs, whereas dynamic programming models are used for decision-making involving a sequence of decisions over time. Stochastic models consider randomness or uncertainty in the decision-making process. The selection of an appropriate model is dependent on the specific problem at hand and the available data.",
+      "link": "model-classes"
     }
   ],
   "importantQuestion" : [
@@ -363,5 +369,10 @@
                 "The final step is model implementation, which involves applying the model to the decision-making process. This step may involve using the model to evaluate different scenarios or to optimize a particular decision.",
                 "The development of a mathematical model is an iterative process that may involve revisiting earlier steps as new information becomes available or as the problem definition changes."],
       "link": "model-development"
+  },
+  "mathematicalModelClasses" : {
+      "title": "Classes of Models",
+      "data" : ["There are several classes of mathematical models that can be used in decision support systems, including linear programming, non-linear programming, network models, dynamic programming, and stochastic models. Linear programming models involve optimizing a linear objective function subject to linear constraints, while non-linear programming models allow for non-linear functions to be optimized. Network models are used to solve problems that can be represented by a network or graph, such as transportation or communication networks. Dynamic programming models are used to solve problems that involve a sequence of decisions over time, while stochastic models incorporate randomness or uncertainty into the decision-making process. The appropriate class of model to use depends on the specific problem being addressed and the available data."],
+      "link": "model-classes"
   }
 }

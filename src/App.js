@@ -43,6 +43,7 @@ function App() {
     <Paragraph props={data.mathematicalModelStructure} />
     <Image src={mmodel} alt="Mathematical Model" caption="Mathematical Model" />
     <Paragraph props={data.mathematicalModelDevelopment} />
+    <Paragraph props={data.mathematicalModelClasses} />
     <Footer />
     <GoTopButton />
     </>
