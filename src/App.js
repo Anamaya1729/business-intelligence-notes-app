@@ -29,6 +29,9 @@ function App() {
     <Paragraph props={data.system} />
     <Paragraph props={data.dmp} />
     <Image src={decisionProcess} alt="Decision Making Process" caption="Decision Making Process" />
+    <Paragraph props={data.evolution} />
+    <Paragraph props={data.dssDefintion} />
+    <Paragraph props={data.dssDevelopment} />
     </>
   )
 }

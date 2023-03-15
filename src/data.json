@@ -59,6 +59,24 @@
       "title": "Representation of the Decision Making Process",
       "content": "The decision-making process involves several stages including identifying the problem, gathering information, analyzing the information, identifying alternatives, choosing the best alternative, implementing the decision, and monitoring and evaluating the decision. It is important to consider factors such as time, resources, stakeholders, and potential risks and uncertainties throughout the process. Decision support systems and other tools can help facilitate and improve the decision-making process.",
       "link": "dmp"
+    },
+    {
+      "id" : 11,
+      "title" : "Evolution of information systems",
+      "content": "The evolution of information systems began with the invention of computers in the 1940s and progressed through various stages, including the development of enterprise resource planning systems, e-commerce and online transaction processing systems, and business intelligence systems. More recently, big data and cloud computing have transformed information systems, enabling organizations to store and process large amounts of data and access software and applications remotely. Mobile devices and social media have also led to the development of mobile and social media analytics systems. The evolution of information systems has been driven by advances in technology and the need for businesses to improve their efficiency, productivity, and decision-making capabilities.",
+      "link": "evolution"
+    },
+    {
+      "id": 12,
+      "title" : "Definition of Decision Support System",
+      "content": "A decision support system (DSS) is a computer-based information system that is designed to assist with the decision-making process by gathering relevant information from various sources, analyzing it, and presenting it in a useful and understandable format. DSSs are interactive and provide insights and recommendations to users, allowing them to explore different scenarios and options to support their decision-making. They are used in a wide range of industries and applications, from finance and healthcare to manufacturing and marketing.",
+      "link": "dss-definition"
+    },
+    {
+      "id": 13,
+      "title": "Development of Decision Support Systems",
+      "content": "The development of a decision support system (DSS) involves several stages, including problem identification, data collection, modeling, implementation, and evaluation. A multidisciplinary team of experts, including domain experts, data analysts, software developers, and end-users, work together to build the DSS using appropriate software tools and technologies. The system is designed to gather relevant data from various sources and model it using techniques such as statistical analysis, simulation, and optimization. The DSS is evaluated to ensure that it meets the needs of the organization and delivers useful insights and recommendations to support decision-making.",
+      "link": "dss-development"
     }
   ],
   "importantQuestion" : [
@@ -280,6 +298,24 @@
                 "7. Monitoring and evaluation: This involves assessing the effectiveness of the decision and making adjustments as necessary.",
                 "Throughout the decision-making process, it is important to consider various factors such as time, resources, stakeholders, and potential risks and uncertainties. The use of decision support systems and other tools can help facilitate and improve the decision-making process."],
       "link": "dmp"
+  },
+  "evolution" : {
+      "title": "Evolution of Information Systems",
+      "data" : ["The evolution of information systems can be traced back to the 1940s when the first computers were invented. In the 1950s and 1960s, businesses began to use computers for basic tasks such as accounting and record-keeping. In the 1970s and 1980s, enterprise resource planning (ERP) systems were developed to integrate and streamline business processes.",
+                "In the 1990s, the internet revolutionized information systems, leading to the development of e-commerce and online transaction processing (OLTP) systems. The early 2000s saw the rise of business intelligence (BI) systems that use data analytics to support decision-making processes.",
+                "More recently, the emergence of big data and cloud computing has transformed information systems, enabling organizations to store and process vast amounts of data and access software and applications remotely through the internet. Additionally, the proliferation of mobile devices and social media has led to the development of mobile and social media analytics systems.",
+                "Overall, the evolution of information systems has been driven by advances in technology and the need for businesses to improve their efficiency, productivity, and decision-making capabilities."],
+      "link": "evolution"
+  },
+  "dssDefintion": {
+      "title": "Definition of Decision Support System",
+      "data" : ["A decision support system (DSS) is a computer-based information system that helps users make decisions by providing access to data and analytical tools. It is designed to assist with the decision-making process by gathering relevant information from various sources, analyzing it, and presenting it in a useful and understandable format. DSSs are used in a wide range of industries and applications, from finance and healthcare to manufacturing and marketing. They are typically interactive and allow users to explore different scenarios and options, providing them with insights and recommendations to support their decision-making."],
+      "link": "dss-definition"
+  },
+  "dssDevelopment" : {
+      "title": "Development of Decision Support Systems",
+      "data" : ["The development of a decision support system (DSS) involves several stages, including problem identification, data collection, modeling, implementation, and evaluation. In the problem identification stage, the issue or decision to be made is defined and the requirements of the DSS are determined. The data collection stage involves gathering relevant data from various sources, such as databases, spreadsheets, and surveys. In the modeling stage, the data is analyzed and modeled using techniques such as statistical analysis, simulation, and optimization. The implementation stage involves building the DSS using appropriate software tools and technologies. Finally, in the evaluation stage, the performance of the DSS is measured and feedback is gathered to improve the system. The development of a DSS requires a multidisciplinary team of experts, including domain experts, data analysts, software developers, and end-users, to ensure that the system meets the needs of the organization and delivers useful insights and recommendations to support decision-making."],
+      "link": "dss-development"
   }
 
 }
