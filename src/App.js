@@ -11,6 +11,7 @@ import ImportantQuestion from './components/ImportantQuestion';
 import decisionProcess from './images/decion_making_process.jpg';
 import Footer from './components/Footer';
 import Title from './components/Title';
+import GoTopButton from './components/GoTopButton';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
     <Paragraph props={data.dssDefintion} />
     <Paragraph props={data.dssDevelopment} />
     <Footer />
+    <GoTopButton />
     </>
   )
 }
