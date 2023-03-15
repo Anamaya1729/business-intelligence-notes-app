@@ -8,6 +8,7 @@ import Paragraph from './components/Paragraphs';
 import Image from './components/Image';
 import architecture from './images/architecture.webp';
 import ImportantQuestion from './components/ImportantQuestion';
+import decisionProcess from './images/decion_making_process.jpg';
 
 function App() {
   return (
@@ -25,6 +26,9 @@ function App() {
     <Image src={architecture} alt="Business Intelligence Architecture"  caption="Business Intelligence Architecture" />
     <Paragraph props= {data.ethics} />
     <Paragraph props={data.decision} />
+    <Paragraph props={data.system} />
+    <Paragraph props={data.dmp} />
+    <Image src={decisionProcess} alt="Decision Making Process" caption="Decision Making Process" />
     </>
   )
 }

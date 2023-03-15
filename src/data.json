@@ -47,6 +47,18 @@
       "title": "Decision support systems",
       "content": "Decision Support Systems (DSS) are computer-based information systems that provide decision-makers with interactive tools and models to support decision-making processes. They have three components - data management, model management, and user interface. DSS can be used in various domains such as finance, marketing, operations, and supply chain management. They help decision-makers make more informed decisions by providing relevant information and analysis in a timely manner. Overall, DSS can be an essential tool for organizations to improve decision-making processes, increase efficiency, and reduce risk.",
       "link": "dss"
+    },
+    {
+      "id": 9,
+      "title": "Definition of System",
+      "content": "In Decision Support Systems (DSS), a system refers to the computer-based information system that provides decision-makers with interactive tools and models to support decision-making processes. The DSS system consists of three components: data management, model management, and user interface. The system collects, stores and retrieves data, creates and manages models for data analysis, and provides users with a user interface to input data and view results. The main goal of the DSS system is to help decision-makers make more informed decisions based on data and analysis.",
+      "link": "system"
+    },
+    {
+      "id": 10,
+      "title": "Representation of the Decision Making Process",
+      "content": "The decision-making process involves several stages including identifying the problem, gathering information, analyzing the information, identifying alternatives, choosing the best alternative, implementing the decision, and monitoring and evaluating the decision. It is important to consider factors such as time, resources, stakeholders, and potential risks and uncertainties throughout the process. Decision support systems and other tools can help facilitate and improve the decision-making process.",
+      "link": "dmp"
     }
   ],
   "importantQuestion" : [
@@ -250,6 +262,24 @@
                 "DSS can be used in a variety of domains, including finance, marketing, operations, and supply chain management. They can help decision-makers make more informed decisions by providing them with relevant information and analysis in a timely manner.",
                 "Overall, DSS can be an important tool for organizations to improve decision-making processes, increase efficiency, and reduce risk."],
       "link": "dss"
+  },
+  "system" : {
+      "title": "Definition of System",
+      "data" : ["In the context of Decision Support Systems (DSS), a system refers to the computer-based information system that provides decision-makers with interactive tools and models to support decision-making processes. The DSS system typically consists of three components: data management, model management, and user interface. The system collects, stores and retrieves data, creates and manages models for data analysis, and provides users with a user interface to input data and view results. The ultimate goal of the DSS system is to help decision-makers make more informed decisions based on data and analysis."],
+      "link": "system"
+  },
+  "dmp" : {
+      "title": "Representation of the Decision Making Process",
+      "data" : ["The decision-making process can be represented by a series of steps, typically involving the following stages:",
+                "1. Identification of the problem or opportunity: This involves recognizing the need for a decision or opportunity for improvement.",
+                "2. Gathering information: This involves collecting relevant data and information related to the problem or opportunity.",
+                "3. Analysis of information: This involves analyzing and processing the data and information collected to gain insights and identify patterns or trends.",
+                "4. Identifying alternatives: This involves generating and evaluating various options or alternatives that could potentially address the problem or take advantage of the opportunity.",
+                "5. Choosing the best alternative: This involves selecting the best option based on criteria such as feasibility, cost, and potential impact.",
+                "6. Implementation: This involves putting the decision into action by developing and executing a plan.",
+                "7. Monitoring and evaluation: This involves assessing the effectiveness of the decision and making adjustments as necessary.",
+                "Throughout the decision-making process, it is important to consider various factors such as time, resources, stakeholders, and potential risks and uncertainties. The use of decision support systems and other tools can help facilitate and improve the decision-making process."],
+      "link": "dmp"
   }
 
 }
