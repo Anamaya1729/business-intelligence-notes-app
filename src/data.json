@@ -106,16 +106,18 @@
     },
     {
       "id": 7,
-      "question": "State the tools and applications of Business Intelligence.",
-      "answer" : ["Business Intelligence (BI) includes a wide range of tools and applications that help organizations collect, analyze, and visualize data to make informed decisions. Some of the most common tools and applications of BI include:",
-                  "1. Data warehousing: This involves the process of collecting and storing data from various sources into a central repository or data warehouse, where it can be easily accessed and analyzed.",
-                  "2. Reporting and analytics: This involves the use of reporting and analysis tools to extract insights and trends from the data stored in the data warehouse. Common reporting and analytics tools include dashboards, scorecards, and ad-hoc reporting tools.",
-                  "3. Data mining: This involves the use of statistical algorithms and machine learning techniques to identify patterns and relationships in data that can be used to make predictions and informed decisions.",
-                  "4. Data visualization: This involves the use of charts, graphs, and other visual tools to represent data in a way that is easy to understand and interpret.",
-                  "5. Performance management: This involves the use of tools and applications to monitor and manage organizational performance, such as key performance indicators (KPIs) and balanced scorecards.",
-                  "6. Data quality management: This involves the process of ensuring that data is accurate, complete, and consistent, so that it can be trusted and used for decision-making.",
-                  "7. Mobile BI: This involves the use of mobile devices such as smartphones and tablets to access and analyze data on the go.",
-                  "Overall, the tools and applications of BI are designed to help organizations gain insights into their data, identify trends and patterns, and make informed decisions that can improve their performance and competitiveness."]
+      "question": "State the tools of Business Intelligence.",
+      "answer" : ["Business Intelligence (BI) involves the use of a variety of tools to collect, analyze, and visualize data to help decision-makers make informed decisions. Some of the most popular tools used in BI include:",
+                  "1. Data integration tools: These tools are used to collect and integrate data from various sources into a central repository or data warehouse.",
+                  "2. ETL (Extract, Transform, Load) tools: These tools are used to extract data from source systems, transform the data into a format that can be used for analysis, and load the data into a data warehouse.",
+                  "3. Data visualization tools: These tools are used to create charts, graphs, and other visualizations that help users understand and interpret data.",
+                  "4. Reporting and analysis tools: These tools are used to analyze data and generate reports that can be used to support decision-making.",
+                  "5. OLAP (Online Analytical Processing) tools: These tools are used to analyze large amounts of data quickly and efficiently.",
+                  "6. Data mining tools: These tools are used to analyze data and identify patterns, trends, and relationships.",
+                  "7. Performance management tools: These tools are used to track and monitor key performance indicators (KPIs) and other metrics.",
+                  "8. Dashboards: These tools are used to provide a high-level overview of an organization's performance, often through the use of charts, graphs, and other visualizations.",
+                  "9. Self-service BI tools: These tools are designed to allow non-technical users to access and analyze data without the need for technical expertise.",
+                  "Overall, the tools used in BI are designed to help organizations gain insights into their data, identify trends and patterns, and make informed decisions that can improve their performance and competitiveness."]
     },
     {
       "id": 8,
@@ -128,6 +130,19 @@
                   "4. Knowledge management: This component includes the process of capturing and organizing the knowledge and expertise of the organization, such as best practices, policies, and procedures.",
                   "DSS can be used in various domains, such as finance, healthcare, marketing, and supply chain management. DSS can help decision-makers evaluate different alternatives, simulate scenarios, and identify risks and opportunities. DSS can also help organizations improve their operational efficiency, reduce costs, and increase profitability."  
                 ]
+    },
+    {
+      "id": 9,
+      "question": "What are the Applications of Business Intelligence?",
+      "answer" : ["Business Intelligence (BI) has a wide range of applications across industries and functions. Here are some of the most common applications of BI:",
+                  "1. Sales and Marketing: BI can be used to analyze customer data, track sales performance, identify market trends, and measure the effectiveness of marketing campaigns.",
+                  "2. Finance: BI can be used to track financial performance, monitor cash flow, identify opportunities for cost savings, and forecast future revenue and expenses.",
+                  "3. Operations: BI can be used to optimize supply chain management, monitor production processes, identify opportunities for process improvement, and track key performance indicators.",
+                  "4. Human Resources: BI can be used to analyze employee data, monitor workforce trends, identify areas for skills development, and track employee performance.",
+                  "5. Customer Service: BI can be used to analyze customer feedback, track customer satisfaction, and identify opportunities for improvement in customer service.",
+                  "6. Risk Management: BI can be used to identify potential risks to the business, monitor compliance with regulations, and develop risk mitigation strategies.",
+                  "7. Business Strategy: BI can be used to inform strategic decision-making, monitor the competitive landscape, and identify opportunities for growth and expansion.",
+                  "Overall, BI can help organizations gain insights into their operations, customers, and markets, and make informed decisions that can improve performance and competitiveness."]
     }
   ],
   "DecisionMaking": [
