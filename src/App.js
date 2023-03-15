@@ -9,6 +9,7 @@ import Image from './components/Image';
 import architecture from './images/architecture.webp';
 import ImportantQuestion from './components/ImportantQuestion';
 import decisionProcess from './images/decion_making_process.jpg';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
     <Paragraph props={data.evolution} />
     <Paragraph props={data.dssDefintion} />
     <Paragraph props={data.dssDevelopment} />
+    <Footer />
     </>
   )
 }

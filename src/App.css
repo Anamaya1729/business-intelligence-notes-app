@@ -89,3 +89,8 @@ body {
   border: 1px solid #ddd;
   border-radius: 5px;
 }
+
+.footer-line {
+  border-top: 1px solid #ddd;
+  margin-top: 2rem;
+}
