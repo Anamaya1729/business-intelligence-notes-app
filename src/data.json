@@ -83,6 +83,12 @@
       "title": "Mathematical Models for Decision Making",
       "content" : "Mathematical models are a valuable tool for decision-making processes, as they allow decision-makers to evaluate complex problems, analyze data, and predict outcomes. These models are based on mathematical equations and algorithms that consider various factors such as costs, risks, and benefits. Different types of mathematical models are used in decision-making, including linear programming, decision trees, simulation models, and forecasting models. They provide a quantitative and systematic approach to decision-making, improving the accuracy and effectiveness of decision-making.",
       "link": "mathematical-model"
+    },
+    {
+      "id": 15,
+      "title": "Strucutre of Mathematical Models",
+      "content": "The structure of mathematical models includes several components such as the objective function, decision variables, constraints, data, and assumptions. These components provide a framework for decision-making and allow decision-makers to analyze complex problems, evaluate different scenarios, and make informed choices. The objective function represents the primary goal of the model, while decision variables are the variables that the decision-maker can control. Constraints are the limitations that must be considered, while data provides inputs for the objective function and constraints. Assumptions are the conditions or assumptions made while building the model and solving the problem. The structure of mathematical models allows for informed choices and achieving objectives in a quantitative and systematic way.",
+      "link": "mathematical-model-structure"
     }
   ],
   "importantQuestion" : [
@@ -329,5 +335,16 @@
                 "There are several types of mathematical models used in decision-making, including linear programming, decision trees, simulation models, and forecasting models. Linear programming is used to find the optimal solution to problems that involve allocating limited resources among competing demands. Decision trees are used to model decision-making under uncertainty, where the outcomes of different decisions are not known with certainty. Simulation models are used to analyze complex systems by simulating their behavior over time. Finally, forecasting models are used to predict future trends and patterns based on historical data and statistical analysis.",
                 "Overall, mathematical models provide decision-makers with a quantitative and systematic approach to decision-making, helping to improve the accuracy and effectiveness of their decisions."],
       "link" : "mathematical-model"
+  },
+  "mathematicalModelStructure" : {
+      "title": "Strucutre of Mathematical Models",
+      "data" : ["Mathematical models are structured in a way that allows decision-makers to analyze complex problems, evaluate different scenarios, and make informed choices. They typically consist of several components, including:",
+                "1. Objective Function: This is the primary goal of the model and represents what the decision-maker wants to achieve.",
+                "2. Decision Variables: These are the variables that the decision-maker can control or manipulate to achieve the objective function.",
+                "3. Constraints: These are the limitations that the decision-maker must consider while making decisions.",
+                "4. Data: This includes historical or current data used to build the model and provide inputs for the objective function and constraints.",
+                "5. Assumptions: These are the conditions or assumptions made while building the model and solving the problem.",
+                "Overall, the structure of mathematical models provides a framework for decision-making that takes into account various constraints and factors that affect the decision. This allows decision-makers to make informed choices and achieve their objectives in a quantitative and systematic way."],
+      "link": "mathematical-model-structure"
   }
 }

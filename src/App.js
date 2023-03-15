@@ -12,6 +12,7 @@ import decisionProcess from './images/decion_making_process.jpg';
 import Footer from './components/Footer';
 import Title from './components/Title';
 import GoTopButton from './components/GoTopButton';
+import mmodel from './images/mmodel.png';
 
 function App() {
   return (
@@ -39,6 +40,8 @@ function App() {
     <Paragraph props={data.dssDevelopment} />
     <Title title="Unit - 2" />
     <Paragraph props={data.mathematicalModel} />
+    <Paragraph props={data.mathematicalModelStructure} />
+    <Image src={mmodel} alt="Mathematical Model" caption="Mathematical Model" />
     <Footer />
     <GoTopButton />
     </>
