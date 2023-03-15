@@ -86,9 +86,15 @@
     },
     {
       "id": 15,
-      "title": "Strucutre of Mathematical Models",
+      "title": "Structure of Mathematical Models",
       "content": "The structure of mathematical models includes several components such as the objective function, decision variables, constraints, data, and assumptions. These components provide a framework for decision-making and allow decision-makers to analyze complex problems, evaluate different scenarios, and make informed choices. The objective function represents the primary goal of the model, while decision variables are the variables that the decision-maker can control. Constraints are the limitations that must be considered, while data provides inputs for the objective function and constraints. Assumptions are the conditions or assumptions made while building the model and solving the problem. The structure of mathematical models allows for informed choices and achieving objectives in a quantitative and systematic way.",
       "link": "mathematical-model-structure"
+    },
+    {
+      "id": 16,
+      "title": "Development of a model",
+      "content": "The development of a mathematical model involves several steps, such as problem identification, data collection, model formulation, model validation, and model implementation. The process requires careful consideration of the objective function, decision variables, and constraints, as well as the available data. Model validation is critical to ensure the model accurately reflects the problem being solved, and model implementation involves applying the model to the decision-making process. The process may be iterative and may involve revisiting earlier steps as new information becomes available or as the problem definition changes.",
+      "link": "model-development"
     }
   ],
   "importantQuestion" : [
@@ -337,7 +343,7 @@
       "link" : "mathematical-model"
   },
   "mathematicalModelStructure" : {
-      "title": "Strucutre of Mathematical Models",
+      "title": "Structure of Mathematical Models",
       "data" : ["Mathematical models are structured in a way that allows decision-makers to analyze complex problems, evaluate different scenarios, and make informed choices. They typically consist of several components, including:",
                 "1. Objective Function: This is the primary goal of the model and represents what the decision-maker wants to achieve.",
                 "2. Decision Variables: These are the variables that the decision-maker can control or manipulate to achieve the objective function.",
@@ -346,5 +352,16 @@
                 "5. Assumptions: These are the conditions or assumptions made while building the model and solving the problem.",
                 "Overall, the structure of mathematical models provides a framework for decision-making that takes into account various constraints and factors that affect the decision. This allows decision-makers to make informed choices and achieve their objectives in a quantitative and systematic way."],
       "link": "mathematical-model-structure"
+  },
+  "mathematicalModelDevelopment" : {
+      "title": "Development of Mathematical Models",
+      "data" : ["The development of a mathematical model involves several steps, including problem identification, data collection, model formulation, model validation, and model implementation.",
+                "In the first step, the problem must be clearly identified and defined. This involves understanding the objectives, constraints, and decision variables that are relevant to the problem at hand.",
+                "The second step involves collecting and analyzing the data that is required to build the model. This may include gathering historical data, conducting surveys or experiments, and gathering expert opinions.",
+                "The third step is model formulation, which involves selecting an appropriate mathematical technique and developing an equation or set of equations that represents the problem. This step requires careful consideration of the objective function, decision variables, and constraints, as well as the available data.",
+                "The fourth step is model validation, which involves testing the model to ensure that it accurately reflects the problem being solved. This step may involve comparing the model's output to real-world data or evaluating the model's performance under different scenarios.",
+                "The final step is model implementation, which involves applying the model to the decision-making process. This step may involve using the model to evaluate different scenarios or to optimize a particular decision.",
+                "The development of a mathematical model is an iterative process that may involve revisiting earlier steps as new information becomes available or as the problem definition changes."],
+      "link": "model-development"
   }
 }
