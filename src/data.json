@@ -62,8 +62,8 @@
     },
     {
       "id" : 11,
-      "title" : "Evolution of information systems",
-      "content": "The evolution of information systems began with the invention of computers in the 1940s and progressed through various stages, including the development of enterprise resource planning systems, e-commerce and online transaction processing systems, and business intelligence systems. More recently, big data and cloud computing have transformed information systems, enabling organizations to store and process large amounts of data and access software and applications remotely. Mobile devices and social media have also led to the development of mobile and social media analytics systems. The evolution of information systems has been driven by advances in technology and the need for businesses to improve their efficiency, productivity, and decision-making capabilities.",
+      "title" : "Evolution of Information Systems",
+      "content": "The evolution of Information Systems began with the invention of computers in the 1940s and progressed through various stages, including the development of enterprise resource planning systems, e-commerce and online transaction processing systems, and business intelligence systems. More recently, big data and cloud computing have transformed information systems, enabling organizations to store and process large amounts of data and access software and applications remotely. Mobile devices and social media have also led to the development of mobile and social media analytics systems. The evolution of information systems has been driven by advances in technology and the need for businesses to improve their efficiency, productivity, and decision-making capabilities.",
       "link": "evolution"
     },
     {
@@ -77,6 +77,12 @@
       "title": "Development of Decision Support Systems",
       "content": "The development of a decision support system (DSS) involves several stages, including problem identification, data collection, modeling, implementation, and evaluation. A multidisciplinary team of experts, including domain experts, data analysts, software developers, and end-users, work together to build the DSS using appropriate software tools and technologies. The system is designed to gather relevant data from various sources and model it using techniques such as statistical analysis, simulation, and optimization. The DSS is evaluated to ensure that it meets the needs of the organization and delivers useful insights and recommendations to support decision-making.",
       "link": "dss-development"
+    },
+    {
+      "id": 14,
+      "title": "Mathematical Models for Decision Making",
+      "content" : "Mathematical models are a valuable tool for decision-making processes, as they allow decision-makers to evaluate complex problems, analyze data, and predict outcomes. These models are based on mathematical equations and algorithms that consider various factors such as costs, risks, and benefits. Different types of mathematical models are used in decision-making, including linear programming, decision trees, simulation models, and forecasting models. They provide a quantitative and systematic approach to decision-making, improving the accuracy and effectiveness of decision-making.",
+      "link": "mathematical-model"
     }
   ],
   "importantQuestion" : [
@@ -316,5 +322,12 @@
       "title": "Development of Decision Support Systems",
       "data" : ["The development of a decision support system (DSS) involves several stages, including problem identification, data collection, modeling, implementation, and evaluation. In the problem identification stage, the issue or decision to be made is defined and the requirements of the DSS are determined. The data collection stage involves gathering relevant data from various sources, such as databases, spreadsheets, and surveys. In the modeling stage, the data is analyzed and modeled using techniques such as statistical analysis, simulation, and optimization. The implementation stage involves building the DSS using appropriate software tools and technologies. Finally, in the evaluation stage, the performance of the DSS is measured and feedback is gathered to improve the system. The development of a DSS requires a multidisciplinary team of experts, including domain experts, data analysts, software developers, and end-users, to ensure that the system meets the needs of the organization and delivers useful insights and recommendations to support decision-making."],
       "link": "dss-development"
+  },
+  "mathematicalModel" : {
+      "title" : "Mathematical Models for Decision Making",
+      "data" : ["Mathematical models are widely used in decision-making processes to help understand complex problems, analyze data, and predict outcomes. In decision-making, mathematical models are used to represent relationships between different variables and to identify optimal solutions to problems. These models are based on mathematical equations and algorithms that take into account various factors, such as costs, risks, and benefits, to help decision-makers evaluate different scenarios and make informed choices.",
+                "There are several types of mathematical models used in decision-making, including linear programming, decision trees, simulation models, and forecasting models. Linear programming is used to find the optimal solution to problems that involve allocating limited resources among competing demands. Decision trees are used to model decision-making under uncertainty, where the outcomes of different decisions are not known with certainty. Simulation models are used to analyze complex systems by simulating their behavior over time. Finally, forecasting models are used to predict future trends and patterns based on historical data and statistical analysis.",
+                "Overall, mathematical models provide decision-makers with a quantitative and systematic approach to decision-making, helping to improve the accuracy and effectiveness of their decisions."],
+      "link" : "mathematical-model"
   }
 }

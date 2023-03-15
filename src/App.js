@@ -20,6 +20,7 @@ function App() {
     <Introduction />
     <ImportantQuestion props={data.importantQuestion} />
     <Topics data={data} />
+    <Title title="Unit - 1" />
     <Title title="Business Intelligence: Effective and Timely Decisions" /> 
     <EffectiveDecisionMaking data={data} />
     <Paragraph props={data.data} />
@@ -36,6 +37,8 @@ function App() {
     <Paragraph props={data.evolution} />
     <Paragraph props={data.dssDefintion} />
     <Paragraph props={data.dssDevelopment} />
+    <Title title="Unit - 2" />
+    <Paragraph props={data.mathematicalModel} />
     <Footer />
     <GoTopButton />
     </>
