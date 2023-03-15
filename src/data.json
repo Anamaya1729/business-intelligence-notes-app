@@ -41,6 +41,12 @@
       "title": "Ethics and Business Intelligence",
       "content": "Ethics is a critical aspect of Business Intelligence as it involves the collection, analysis, and dissemination of sensitive and personal data. Privacy, bias, transparency, and accountability are some of the key ethical concerns in Business Intelligence. Organizations must collect and store data in compliance with privacy regulations, ensure that their models are designed and trained with fairness and transparency, and be transparent and accountable for any decisions made based on the data. Ethical considerations are crucial to avoid potential legal, reputational, and financial risks.",
       "link": "ethics"
+    },
+    {
+      "id": 8,
+      "title": "Decision support systems",
+      "content": "Decision Support Systems (DSS) are computer-based information systems that provide decision-makers with interactive tools and models to support decision-making processes. They have three components - data management, model management, and user interface. DSS can be used in various domains such as finance, marketing, operations, and supply chain management. They help decision-makers make more informed decisions by providing relevant information and analysis in a timely manner. Overall, DSS can be an essential tool for organizations to improve decision-making processes, increase efficiency, and reduce risk.",
+      "link": "dss"
     }
   ],
   "importantQuestion" : [
@@ -233,5 +239,17 @@
         "Overall, ethical considerations are crucial in Business Intelligence. Organizations must ensure that they use data and analytics in a responsible and ethical manner to avoid potential legal, reputational, and financial risks."
       ],
       "link": "ethics"
+  },
+  "decision" : {
+      "title" : "Decision support systems",
+      "data" : ["Decision Support Systems (DSS) are computer-based information systems that provide decision-makers with interactive tools and models to support decision-making processes. DSS are designed to help users analyze complex problems, evaluate alternatives, and make decisions based on data and analysis.",
+                "DSS typically have three components:",
+                "1. Data management: This involves the collection, storage, and retrieval of data needed for the decision-making process.",
+                "2. Model management: This involves the creation and management of mathematical or logical models that are used to analyze data and evaluate alternatives.",
+                "3. User interface: This is the part of the DSS that allows users to interact with the system, input data, and view results.",
+                "DSS can be used in a variety of domains, including finance, marketing, operations, and supply chain management. They can help decision-makers make more informed decisions by providing them with relevant information and analysis in a timely manner.",
+                "Overall, DSS can be an important tool for organizations to improve decision-making processes, increase efficiency, and reduce risk."],
+      "link": "dss"
   }
+
 }

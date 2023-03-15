@@ -24,6 +24,7 @@ function App() {
     <Paragraph props={data['business-intelligence-architecture']} />
     <Image src={architecture} alt="Business Intelligence Architecture"  caption="Business Intelligence Architecture" />
     <Paragraph props= {data.ethics} />
+    <Paragraph props={data.decision} />
     </>
   )
 }
