@@ -10,6 +10,7 @@ import architecture from './images/architecture.webp';
 import ImportantQuestion from './components/ImportantQuestion';
 import decisionProcess from './images/decion_making_process.jpg';
 import Footer from './components/Footer';
+import Title from './components/Title';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
     <Introduction />
     <ImportantQuestion props={data.importantQuestion} />
     <Topics data={data} />
+    <Title title="Business Intelligence: Effective and Timely Decisions" /> 
     <EffectiveDecisionMaking data={data} />
     <Paragraph props={data.data} />
     <Paragraph props={data.information} />

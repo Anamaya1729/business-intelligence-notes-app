@@ -105,7 +105,7 @@
     },
     {
       "id": 3,
-      "question": "What is Mathematical Model?",
+      "question": "What is a Mathematical Model?",
       "answer" : [
         "Mathematical models play a critical role in extracting insights from data and informing decision-making. Mathematical models can be used to analyze data and identify patterns, relationships, and trends. These models can then be used to make predictions or forecast future outcomes, which can be useful in strategic planning, resource allocation, and risk management.",
         "Business intelligence often involves the use of statistical analysis and machine learning techniques to develop mathematical models that can uncover insights and provide guidance for decision-making. These models can range from simple regression models that relate two variables to more complex models that incorporate multiple variables and non-linear relationships.",
@@ -317,5 +317,4 @@
       "data" : ["The development of a decision support system (DSS) involves several stages, including problem identification, data collection, modeling, implementation, and evaluation. In the problem identification stage, the issue or decision to be made is defined and the requirements of the DSS are determined. The data collection stage involves gathering relevant data from various sources, such as databases, spreadsheets, and surveys. In the modeling stage, the data is analyzed and modeled using techniques such as statistical analysis, simulation, and optimization. The implementation stage involves building the DSS using appropriate software tools and technologies. Finally, in the evaluation stage, the performance of the DSS is measured and feedback is gathered to improve the system. The development of a DSS requires a multidisciplinary team of experts, including domain experts, data analysts, software developers, and end-users, to ensure that the system meets the needs of the organization and delivers useful insights and recommendations to support decision-making."],
       "link": "dss-development"
   }
-
 }
